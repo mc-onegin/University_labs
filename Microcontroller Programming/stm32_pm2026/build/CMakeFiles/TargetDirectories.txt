@@ -1,0 +1,6 @@
+C:/Users/Alexandr/Documents/MK/stm32_pm2026/build/CMakeFiles/stm32_template.dir
+C:/Users/Alexandr/Documents/MK/stm32_pm2026/build/CMakeFiles/bin.dir
+C:/Users/Alexandr/Documents/MK/stm32_pm2026/build/CMakeFiles/hex.dir
+C:/Users/Alexandr/Documents/MK/stm32_pm2026/build/CMakeFiles/flash.dir
+C:/Users/Alexandr/Documents/MK/stm32_pm2026/build/CMakeFiles/edit_cache.dir
+C:/Users/Alexandr/Documents/MK/stm32_pm2026/build/CMakeFiles/rebuild_cache.dir
