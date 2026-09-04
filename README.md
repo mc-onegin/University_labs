@@ -12,4 +12,4 @@
 | [`OOP`](OOP)   | Объектно-ориентированное программирование | Python |
 | [`OS`](OS)     | Операционные системы | Отчёты (.docx) |
 | [`Python`](Python) | Программирование на Python | Python |
-| [`Microcontroller Programming`](Microcontroller Programming) | Программирование микроконтроллеров | C |
+| [`Microcontroller Programming`](<Microcontroller Programming>) | Программирование микроконтроллеров | C |
