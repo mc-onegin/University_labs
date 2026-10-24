@@ -13,3 +13,4 @@
 | [`OS`](OS)     | Операционные системы | Отчёты (.docx) |
 | [`Python`](Python) | Программирование на Python | Python |
 | [`Microcontroller Programming`](<Microcontroller Programming>) | Программирование микроконтроллеров | C |
+| [`ML`](ML)     | Машинное обучение | Python |
